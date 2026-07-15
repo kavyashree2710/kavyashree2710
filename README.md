@@ -1,94 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kavyashree%20👋&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hi%20There,%20I'm%20Kavyashree%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+AI-powered+web+experiences;Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python;Turning+learning+into+shipped+products%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+Developer;Machine+Learning+Enthusiast;Turning+ideas+into+clean%2C+working+code" alt="Typing SVG" />
 
-[![Open to Work](https://img.shields.io/badge/STATUS-Open%20to%20Work-1a1a1a?style=for-the-badge)](https://linkedin.com/in/your-linkedin-handle)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavyashreesaliyan@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=kavyashree2710&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kavyashree2710)
 
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+<br/>
 
-```js
-const kavyashree = {
-  role:        "Software Engineer",
-  education:   "MCA, Srinivas University Mangalore (CGPA 9.64)",
-  focus:       ["Full Stack Web", "AI-enabled Apps", "QA & Test Automation"],
-  currently:   "Building full-stack apps across the complete SDLC",
-  learning:    ["CI/CD pipelines", "Cloud deployment (AWS)", "System Design"],
-  philosophy:  "Test thoroughly. Ship confidently. Keep learning.",
-};
-```
+## 🚀 About Me
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<img align="right" width="280" src="https://raw.githubusercontent.com/ihopethiswillfi/ihopethiswillfi/master/programming.gif">
 
-**📌 Quick Facts**
-- 🎓 **MCA** — Srinivas University (CGPA **9.64**)
-- 🎓 **BCA** — SDM College, Mangalore (CGPA **9.22**)
-- 💼 Software Engineer Intern @ **Abhimo Technologies**
-- 🏆 **Best Technology Expert of the Year** 2024–25
+- 💻 Software Engineer with hands-on experience across the **full SDLC** — requirement analysis, design, coding, testing & deployment
+- 🌱 Currently exploring **AI-enabled applications, CI/CD pipelines, and cloud deployment on AWS**
+- 🎓 **MCA** (9.64 CGPA) — Srinivas University &nbsp;|&nbsp; **BCA** (9.22 CGPA) — SDM College, Mangalore
+- 🏆 Awarded **Best Technology Expert of the Year 2024–25**
+- ⚡ 1st place — Web Designing, National-Level IT Fest, St Joseph College, Vamanjuru
+- 📫 Reach me at **kavyashreesaliyan@gmail.com**
 
-</td>
-<td valign="top" width="50%">
+<br clear="both"/>
 
-**🚧 Currently Building**
-- AI-enabled full-stack apps with **Next.js + Gemini API**
-- Bug/test-case tracking tools with **CI/CD pipelines**
-- ML models for image classification (**OpenCV, Scikit-learn**)
-- Cleaner, faster developer workflows
-
-</td>
-</tr>
-</table>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect With Me
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavyashree2710)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavyashreesaliyan@gmail.com)
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Web**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Databases & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Data Science & Testing**
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-## <img src="https://media.giphy.com/media/qssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Tech Stack
+<br/>
 
-**Languages**
+## 📌 Featured Projects
 
-![](https://skillicons.dev/icons?i=python,java,js,php,cpp)
-
-**Frontend & Frameworks**
-
-![](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)
-
-**Backend & Databases**
-
-![](https://skillicons.dev/icons?i=nodejs,django,postgresql,mysql)
-
-**AI / Data Science**
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**DevOps & Tools**
-
-![](https://skillicons.dev/icons?i=git,github,aws,linux,vscode)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Featured Projects
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔢 Handwritten Text Prediction
-ML model recognizing handwritten text via image preprocessing and classification.
+ML model recognizing handwritten text using image preprocessing and classification.
 
 `Python` `OpenCV` `Scikit-learn`
 
@@ -114,7 +102,7 @@ Website for SDMCBM's National-Level IT Fest, SYGMA.
 <td width="50%" valign="top">
 
 ### ✨ More Coming Soon
-Polishing an AI-powered career toolkit and a CI/CD-driven bug tracker before they go public.
+Currently polishing a couple of full-stack + AI projects before they go public here.
 
 `Stay tuned`
 
@@ -122,7 +110,11 @@ Polishing an AI-powered career toolkit and a CI/CD-driven bug tracker before the
 </tr>
 </table>
 
-## <img src="https://media.giphy.com/media/M9kIvUAOFSMDG/giphy.gif" width="35"> GitHub Stats
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -133,20 +125,16 @@ Polishing an AI-powered career toolkit and a CI/CD-driven bug tracker before the
 
 </div>
 
+<br/>
+
 ## 🏆 Certifications
 
 - 🎖️ **Django for Back-End Development** — CodeSignal
 - 🎖️ **Software Development and IT Services** — Skill India Digital Hub
 - 🎖️ **Data Science and Machine Learning** — YBI Foundation
 
-## <img src="https://media.giphy.com/media/xUOxfhqkbHfF8B4kMc/giphy.gif" width="35"> A Quote I Live By
+<br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer"/>
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/kavyashree2710)
-
-### Thanks for stopping by — let's build something great together.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
-
-</div>
+<div align="center"><i>Thanks for stopping by! Feel free to explore my repos or connect with me. ✨</i></div>
