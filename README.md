@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hi%20There,%20I'm%20Kavyashree%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+Developer;Machine+Learning+Enthusiast;Turning+ideas+into+clean%2C+working+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+Developer;Turning+ideas+into+clean%2C+working+code;Currently+looking+for+Software+Engineer+roles" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavyashree)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavyashreesaliyan@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=kavyashree2710&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kavyashree2710)
 
@@ -19,10 +19,11 @@
 <img align="right" width="280" src="https://raw.githubusercontent.com/ihopethiswillfi/ihopethiswillfi/master/programming.gif">
 
 - 💻 Software Engineer with hands-on experience across the **full SDLC** — requirement analysis, design, coding, testing & deployment
+- 🟢 **Currently open to Software Engineer / Full-Stack Developer roles** — open to relocation
 - 🌱 Currently exploring **AI-enabled applications, CI/CD pipelines, and cloud deployment on AWS**
 - 🎓 **MCA** (9.64 CGPA) — Srinivas University &nbsp;|&nbsp; **BCA** (9.22 CGPA) — SDM College, Mangalore
 - 🏆 Awarded **Best Technology Expert of the Year 2024–25**
-- ⚡ 1st place — Web Designing, National-Level IT Fest, St Joseph College, Vamanjuru
+- ⚡ 1st place — Web Designing, National-Level IT Fest, St Joseph College, Vamanjoor
 - 📫 Reach me at **kavyashreesaliyan@gmail.com**
 
 <br clear="both"/>
@@ -36,8 +37,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Web**
 
@@ -52,6 +53,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Data Science & Testing**
@@ -75,36 +77,46 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔢 Handwritten Text Prediction
-ML model recognizing handwritten text using image preprocessing and classification.
+### 💼 Caryo — AI-Powered Career Toolkit & Job Portal
+Full-stack AI career platform with a resume builder, cover letter generator, and interview-prep modules. Secure role-based dashboards with real-time insights.
 
-`Python` `OpenCV` `Scikit-learn`
+`Next.js` `Node.js` `PostgreSQL` `Prisma` `Gemini API` `Clerk Auth`
+
+🔗 [Repo](#) &nbsp;|&nbsp; 🌐 [Live Demo](#)
+<!-- replace # with your actual repo/live links once uploaded -->
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 VC Sourcing Platform
-Platform to discover companies, enrich company data, and save companies.
+### 🐞 DevTrack — Bug & Test Case Management System
+Full-stack bug/test-case tracker with automated UI testing (Selenium), API testing (Postman), and a CI/CD pipeline via GitHub Actions that runs tests on every push.
 
-`Next.js` `Tailwind CSS`
+`CI/CD` `Selenium` `Postman` `GitHub Actions`
+
+🔗 [Repo](#)
+<!-- replace # with your actual repo link once uploaded -->
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎉 SYGMA-2023
-Website for SDMCBM's National-Level IT Fest, SYGMA.
+### 🔢 Handwritten Text Prediction
+ML model recognizing handwritten text using image preprocessing and classification techniques.
 
-`HTML` `CSS`
+`Python` `OpenCV` `Scikit-learn`
+
+🔗 [Repo](#)
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ More Coming Soon
-Currently polishing a couple of full-stack + AI projects before they go public here.
+### 🎉 SYGMA-2023
+Website built for SDMCBM's National-Level IT Fest, SYGMA.
 
-`Stay tuned`
+`HTML` `CSS`
+
+🔗 [Repo](#)
 
 </td>
 </tr>
@@ -131,7 +143,8 @@ Currently polishing a couple of full-stack + AI projects before they go public h
 
 - 🎖️ **Django for Back-End Development** — CodeSignal
 - 🎖️ **Software Development and IT Services** — Skill India Digital Hub
-- 🎖️ **Data Science and Machine Learning** — YBI Foundation
+- 🎖️ **Data Science and Machine Learning** — YBI Foundation (Online Certificate Internship)
+- 🎖️ **Generative AI Certification** — In Progress
 
 <br/>
 
