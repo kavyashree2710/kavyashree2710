@@ -82,7 +82,7 @@ Full-stack AI career platform with a resume builder, cover letter generator, and
 
 `Next.js` `Node.js` `PostgreSQL` `Prisma` `Gemini API` `Clerk Auth`
 
-🔗 [Repo](#) &nbsp;|&nbsp; 🌐 [Live Demo](#)
+🔗 [Repo](https://github.com/kavyashree2710/caryo) &nbsp;|&nbsp; 🌐 [Live Demo](#)
 <!-- replace # with your actual repo/live links once uploaded -->
 
 </td>
