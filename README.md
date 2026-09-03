@@ -106,7 +106,7 @@ ML model recognizing handwritten text using image preprocessing and classificati
 
 `Python` `OpenCV` `Scikit-learn`
 
-🔗 [Repo](#)
+🔗 [Repo](https://github.com/kavyashree2710/Hand-Written-Digit-Prediction---Classification-Analysis)
 
 </td>
 <td width="50%" valign="top">
