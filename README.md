@@ -93,7 +93,7 @@ Full-stack bug/test-case tracker with automated UI testing (Selenium), API testi
 
 `CI/CD` `Selenium` `Postman` `GitHub Actions`
 
-🔗 [Repo](#)
+🔗 [Repo](https://github.com/kavyashree2710/DevTrack)
 <!-- replace # with your actual repo link once uploaded -->
 
 </td>
