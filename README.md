@@ -116,7 +116,7 @@ Website built for SDMCBM's National-Level IT Fest, SYGMA.
 
 `HTML` `CSS`
 
-🔗 [Repo](#)
+🔗 [Repo](https://github.com/kavyashree2710/SYGMA-2023)
 
 </td>
 </tr>
