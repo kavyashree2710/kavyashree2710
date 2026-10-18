@@ -1,152 +1,180 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hi%20There,%20I'm%20Kavyashree%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+Developer;Turning+ideas+into+clean%2C+working+code;Currently+looking+for+Software+Engineer+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full-Stack+Developer;Python+%7C+Django+%7C+REST+APIs;Building+Projects+and+Learning+Every+Day;Open+to+Software+Development+Opportunities" alt="Typing SVG"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavyashree)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavyashreesaliyan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavyashree)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavyashreesaliyan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavyashree2710)
 [![Profile Views](https://komarev.com/ghpvc/?username=kavyashree2710&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kavyashree2710)
 
 </div>
 
-<br/>
+---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/ihopethiswillfi/ihopethiswillfi/master/programming.gif">
+<img align="right" width="250" src="https://raw.githubusercontent.com/ihopethiswillfi/ihopethiswillfi/master/programming.gif" alt="Coding animation"/>
 
-- 💻 Software Engineer with hands-on experience across the **full SDLC** — requirement analysis, design, coding, testing & deployment
-- 🟢 **Currently open to Software Engineer / Full-Stack Developer roles** — open to relocation
-- 🌱 Currently exploring **AI-enabled applications, CI/CD pipelines, and cloud deployment on AWS**
-- 🎓 **MCA** (9.64 CGPA) — Srinivas University &nbsp;|&nbsp; **BCA** (9.22 CGPA) — SDM College, Mangalore
-- 🏆 Awarded **Best Technology Expert of the Year 2024–25**
-- ⚡ 1st place — Web Designing, National-Level IT Fest, St Joseph College, Vamanjoor
-- 📫 Reach me at **kavyashreesaliyan@gmail.com**
+- 🎓 Recent **MCA graduate from Srinivas University**, with a background in Computer Applications.
+- 💻 Interested in **Software Engineering, Backend Development, and Full-Stack Development**.
+- 🐍 Working with **Python, Django, REST APIs, SQL, and PostgreSQL**.
+- 🌐 Hands-on experience building web applications using **JavaScript, Node.js, React, and PHP**.
+- 🚀 Building **DevTrack**, a Django-based bug and test case management project.
+- 🤖 Interested in AI-powered applications and practical machine learning projects.
+- 🏆 **Best Technology Expert of the Year 2024–25** — Srinivas University.
+- 🥇 First place in Web Designing at a national-level IT fest at St Joseph College, Vamanjoor.
+- 📍 Based in Mangalore, India | Open to software development opportunities.
 
 <br clear="both"/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Frameworks & Web Technologies
 
-**Frameworks & Web**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### Databases, Tools & Cloud
 
-**Databases & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### Data Science & Machine Learning
 
-**Data Science & Testing**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
-</div>
-
-<br/>
-
-## 📌 Featured Projects
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Caryo — AI-Powered Career Toolkit & Job Portal
-Full-stack AI career platform with a resume builder, cover letter generator, and interview-prep modules. Secure role-based dashboards with real-time insights.
+### 💼 Caryo — AI Career Toolkit
 
-`Next.js` `Node.js` `PostgreSQL` `Prisma` `Gemini API` `Clerk Auth`
+An AI-powered career platform featuring resume building, cover letter generation, interview preparation, job tracking, and user and recruiter dashboards.
 
-🔗 [Repo](https://github.com/kavyashree2710/caryo) &nbsp;|&nbsp; 🌐
+**Tech Stack**
+
+`Next.js` `Node.js` `PostgreSQL` `Prisma` `Gemini API` `Clerk`
+
+🔗 [View Repository](https://github.com/kavyashree2710/caryo)
 
 </td>
 <td width="50%" valign="top">
 
-### 🐞 DevTrack — Bug & Test Case Management System
-Full-stack bug/test-case tracker with automated UI testing (Selenium), API testing (Postman), and a CI/CD pipeline via GitHub Actions that runs tests on every push.
+### 🐞 DevTrack — Bug Management System
 
-`CI/CD` `Selenium` `Postman` `GitHub Actions`
+A Django-based project for managing bugs and tracking software issues. Developing backend APIs and exploring authentication, database operations, and structured application development.
 
-🔗 [Repo](https://github.com/kavyashree2710/DevTrack)
-<!-- replace # with your actual repo link once uploaded -->
+**Tech Stack**
+
+`Python` `Django` `Django REST Framework` `JWT` `SQL`
+
+🔗 [View Repository](https://github.com/kavyashree2710/DevTrack)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔢 Handwritten Text Prediction
-ML model recognizing handwritten text using image preprocessing and classification techniques.
+### 🔢 Handwritten Digit Prediction
+
+A machine learning project that uses image preprocessing and classification techniques to recognize handwritten digits.
+
+**Tech Stack**
 
 `Python` `OpenCV` `Scikit-learn`
 
-🔗 [Repo](https://github.com/kavyashree2710/Hand-Written-Digit-Prediction---Classification-Analysis)
+🔗 [View Repository](https://github.com/kavyashree2710/Hand-Written-Digit-Prediction---Classification-Analysis)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎉 SYGMA-2023
-Website built for SDMCBM's National-Level IT Fest, SYGMA.
+
+A website developed for the national-level IT fest organized by SDMCBM, Mangalore.
+
+**Tech Stack**
 
 `HTML` `CSS`
 
-🔗 [Repo](https://github.com/kavyashree2710/SYGMA-2023)
+🔗 [View Repository](https://github.com/kavyashree2710/SYGMA-2023)
 
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-<br/>
+## 📈 Current Learning Goals
+
+- Building REST APIs with Django REST Framework.
+- Implementing authentication and permissions in backend applications.
+- Improving SQL and PostgreSQL skills.
+- Practicing Data Structures and Algorithms using Python.
+- Learning automated testing, GitHub Actions, and deployment workflows.
+- Exploring AI API integration in web applications.
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kavyashree2710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kavyashree2710&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyashree2710&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyashree2710&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyashree2710&theme=tokyonight&hide_border=true" alt="GitHub streak statistics"/>
 
 </div>
 
-<br/>
+---
 
-## 🏆 Certifications
+## 🏆 Certifications & Achievements
 
-- 🎖️ **Django for Back-End Development** — CodeSignal
-- 🎖️ **Software Development and IT Services** — Skill India Digital Hub
-- 🎖️ **Data Science and Machine Learning** — YBI Foundation (Online Certificate Internship)
-- 🎖️ **Generative AI Certification** — In Progress
+- 🎓 Django for Back-End Development — CodeSignal.
+- 🎓 Software Development and IT Services — Skill India Digital Hub.
+- 🎓 Data Science and Machine Learning — YBI Foundation.
+- 🏆 Best Technology Expert of the Year 2024–25 — Srinivas University.
+- 🥇 First Place — Web Designing, National-Level IT Fest, St Joseph College, Vamanjoor.
+- 🥈 Second Place — Web Designing competitions at St Aloysius College and Sri Devi College.
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer"/>
+<div align="center">
 
-<div align="center"><i>Thanks for stopping by! Feel free to explore my repos or connect with me. ✨</i></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
+
+*Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
+
+</div>
