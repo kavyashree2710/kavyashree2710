@@ -121,7 +121,7 @@ A machine learning project that uses image preprocessing and classification tech
 
 ### 🎉 SYGMA-2023
 
-A website developed for the national-level IT fest organized by SDMCBM, Mangalore.
+A website developed for the national-level IT fest organized by college SDMCBM, Mangalore.
 
 **Tech Stack**
 
