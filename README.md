@@ -20,7 +20,7 @@
 
 <img align="right" width="250" src="https://raw.githubusercontent.com/ihopethiswillfi/ihopethiswillfi/master/programming.gif" alt="Coding animation"/>
 
-- 🎓 Recent **MCA graduate from Srinivas University**, with a background in Computer Applications.
+- 🎓 Recent **MCA graduate from Srinivas University**, with a **4th Rank in MCA** and a background in Computer Applications.
 - 💻 Interested in **Software Engineering, Backend Development, and Full-Stack Development**.
 - 🐍 Working with **Python, Django, REST APIs, SQL, and PostgreSQL**.
 - 🌐 Hands-on experience building web applications using **JavaScript, Node.js and React**.
