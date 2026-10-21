@@ -24,7 +24,6 @@
 - 💻 Interested in **Software Engineering, Backend Development, and Full-Stack Development**.
 - 🐍 Working with **Python, Django, REST APIs, SQL, and PostgreSQL**.
 - 🌐 Hands-on experience building web applications using **JavaScript, Node.js and React**.
-- 🚀 Building **DevTrack**, a Django-based bug and test case management project.
 - 🤖 Interested in AI-powered applications and practical machine learning projects.
 - 🏆 **Best Technology Expert of the Year 2024–25** — Srinivas University.
 - 🥇 First place in Web Designing at a national-level IT fest at St Joseph College, Vamanjoor.
