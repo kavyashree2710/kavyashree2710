@@ -31,7 +31,7 @@
 
 <br clear="both"/>
 
-## 🛠️ Tech Stac
+## 🛠️ Tech Stack
 
 ### Languages
 
