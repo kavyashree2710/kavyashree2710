@@ -77,7 +77,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Caryo — AI Career Toolkit
+### 💼 Caryo - AI Career Toolkit
 
 An AI-powered career platform featuring resume building, cover letter generation, interview preparation, job tracking, and user and recruiter dashboards.
 
