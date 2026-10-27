@@ -105,7 +105,7 @@ A Django-based project for managing bugs and tracking software issues. Developin
 <tr>
 <td width="50%" valign="top">
 
-### 🔢 Handwritten Digit Prediction
+### 🔢 Hand written Digit Prediction
 
 A machine learning project that uses image preprocessing and classification techniques to recognize handwritten digits.
 
