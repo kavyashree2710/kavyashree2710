@@ -90,7 +90,7 @@ An AI-powered career platform featuring resume building, cover letter generation
 </td>
 <td width="50%" valign="top">
 
-### 🐞 DevTrack — Bug Management System
+### 🐞 DevTrack — A Bug Management System
 
 A Django-based project for managing bugs and tracking software issues. Developing backend APIs and exploring authentication, database operations, and structured application development.
 
