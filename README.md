@@ -165,7 +165,7 @@ A website developed for the national-level IT fest organized by SDMCBM, Mangalor
 - 🎓 Software Development and IT Services — Skill India Digital Hub.
 - 🎓 Data Science and Machine Learning — YBI Foundation.
 - 🏆 Best Technology Expert of the Year 2024–25 — Srinivas University.
-- 🥇 First Place — Web Designing, National-Level IT Fest, St Joseph College.
+- 🥇 First Place — Web Designing, National-Level IT Fest, St Joseph College Vamanjoor.
 - 🥈 Second Place — Web Designing competitions at St Aloysius College and Sri Devi College.
 
 ---
